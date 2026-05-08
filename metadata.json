@@ -1,0 +1,8 @@
+{
+  "name": "EtherHands",
+  "description": "实时手势交互3D粒子视觉系统，结合MediaPipe与Three.js创造深空奇观。",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
